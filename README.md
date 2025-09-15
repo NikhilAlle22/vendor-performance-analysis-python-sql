@@ -44,19 +44,6 @@ This project addresses these issues by answering:
 ---
 
 ## 📂 Repository Structure
-"""
-├── data/ # Raw CSVs (ignored in .gitignore)
-├── Notebooks/
-│ ├── Exploratory Data Analysis.ipynb
-│ ├── Vendor performance analysis.ipynb
-├── scripts/
-│ ├── get_vendor_summary.py
-│ ├── inventory_db.py
-├── reports/
-│ └── Vendor Performance Report.pdf
-├── README.md
-└── .gitignore
-"""
 
 ## ✅ Recommendations
 - Adjust pricing for **low-sales, high-margin brands**.  
